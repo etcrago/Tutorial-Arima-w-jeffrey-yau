@@ -2,7 +2,7 @@
 
 https://github.com/silicon-valley-data-science/pydata-sf-2016-arima-tutorial
 
-shortlink: http://bit.ly/svds-pydata-ts
+# Shortlink: http://bit.ly/svds-pydata-ts
 
 PyData San Francisco 2016 - ARIMA Tutorial
 
