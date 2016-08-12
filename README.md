@@ -6,7 +6,7 @@
 
 Requirements (Anaconda/conda install) plus one bleeding edge : 
 
-```python
+```bash
 pip install --pre statsmodels --upgrade
 ```
 
