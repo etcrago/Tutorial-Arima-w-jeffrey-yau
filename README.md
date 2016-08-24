@@ -1,14 +1,17 @@
 # PyData San Francisco 2016 - ARIMA Tutorial
 
-# Shortlink: http://bit.ly/svds-pydata-ts
+## Shortlink to this page: http://bit.ly/svds-pydata-ts
 
-`git clone git@github.com:silicon-valley-data-science/pydata-sf-2016-arima-tutorial.git`
+To clone this repository, run the command:
+```bash
+git clone git@github.com:silicon-valley-data-science/pydata-sf-2016-arima-tutorial.git
+```
 
-Requirements (Anaconda/conda install) plus one bleeding edge : 
-
+Requirements (Anaconda/conda install) plus one bleeding edge package:
 ```bash
 pip install --pre statsmodels --upgrade
 ```
 
-http://pydata.org/sfo2016/schedule/presentation/38/
+## Conference page: http://pydata.org/sfo2016/schedule/presentation/38/
 
+## Tutorial video: https://www.youtube.com/watch?v=tJ-O3hk1vRw
