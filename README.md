@@ -1,6 +1,5 @@
 # PyData San Francisco 2016 - ARIMA Tutorial
 
-## Shortlink to this page: http://bit.ly/svds-pydata-ts
 
 To clone this repository, run the command:
 ```bash
